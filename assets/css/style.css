@@ -219,6 +219,12 @@ p.lede{font-size:clamp(16px,1.6vw,19px);color:var(--text-600);margin-top:18px;ma
 .hero-badge .dot{width:22px;height:22px;border-radius:50%;background:linear-gradient(135deg,var(--gold-bright),var(--gold-deep));display:flex;align-items:center;justify-content:center;font-size:10px;color:var(--gold-ink);font-weight:700;}
 .hero h1{font-size:clamp(38px,5.6vw,72px);font-weight:600;}
 .hero h1 em{font-style:italic;color:var(--gold-bright);font-weight:500;}
+.titulo {
+    font-style: italic;
+    color: #B89B6A;
+    font-weight: 500;
+    text-shadow: 0 1px 8px rgba(184, 155, 106, 0.18);
+}
 .hero .lede{max-width:46ch;font-size:clamp(16px,1.5vw,18.5px);color:var(--on-dark-muted);margin-top:24px;}
 .hero-actions{display:flex;gap:16px;margin-top:42px;flex-wrap:wrap;}
 .hero-proof{display:flex;gap:34px;margin-top:64px;flex-wrap:wrap;}
