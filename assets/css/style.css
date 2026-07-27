@@ -475,6 +475,10 @@ footer{background:var(--ink-950);color:var(--on-dark-muted);padding-block:64px 2
     color: #dedddd;
 }
 
+.fale-com {
+  color: antiquewhite;
+}
+
 @media (max-width:480px){
 
     :root{
